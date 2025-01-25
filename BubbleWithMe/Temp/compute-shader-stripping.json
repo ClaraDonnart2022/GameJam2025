@@ -16,13 +16,13 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: ComputePositionNormal",
-                            "stripTimeMs": 0.0055000000000000009
+                            "stripTimeMs": 0.0046
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: ComputePositionNormal",
-                            "stripTimeMs": 0.0009000000000000001
+                            "stripTimeMs": 0.0002
                         }
                     ]
                 }

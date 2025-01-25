@@ -3,7 +3,7 @@
     {
       "type": "il2cppData",
       "msg": {
-        "build_event_id": "b8104b4e4dd3149b2ab7ce6e0f152a4d",
+        "build_event_id": "c0991410e5ba9427291e205f06666404",
         "node_executed": true,
         "attribute_total_count_eager_static_constructor": 82,
         "attribute_total_count_set_option": 0,
@@ -42,25 +42,25 @@
     {
       "type": "playerBuildTimingData",
       "msg": {
-        "build_event_id": "b8104b4e4dd3149b2ab7ce6e0f152a4d",
-        "build_player": 313368,
-        "preprocess_player": 61,
-        "produce_player_script_assemblies": 8565,
-        "build_scripts_dlls": 26,
-        "writing_asset_files": 11819,
-        "postprocess_built_player": 287653,
+        "build_event_id": "c0991410e5ba9427291e205f06666404",
+        "build_player": 74574,
+        "preprocess_player": 112,
+        "produce_player_script_assemblies": 5470,
+        "build_scripts_dlls": 31,
+        "writing_asset_files": 1184,
+        "postprocess_built_player": 58560,
         "node_summary_table": [
           {
             "name": "Csc",
-            "duration": 2001
-          },
-          {
-            "name": "UnityLinker.exe",
-            "duration": 7015
+            "duration": 372
           },
           {
             "name": "il2cpp.exe",
-            "duration": 16385
+            "duration": 12946
+          },
+          {
+            "name": "UnityLinker.exe",
+            "duration": 6943
           }
         ]
       },
@@ -69,7 +69,7 @@
     {
       "type": "unityLinkerData",
       "msg": {
-        "build_event_id": "b8104b4e4dd3149b2ab7ce6e0f152a4d",
+        "build_event_id": "c0991410e5ba9427291e205f06666404",
         "node_executed": true,
         "attribute_marked_count_always_link_assembly": 3,
         "attribute_swept_count_always_link_assembly": 0,

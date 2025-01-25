@@ -10,9 +10,6 @@ public class ChangeScene: MonoBehaviour
     {
         // Obtenir le nom de la scène active
         string currentScene = SceneManager.GetActiveScene().name;
-        Debug.Log(currentScene);
-        Debug.Log(scene1 + "scene1");
-        Debug.Log(scene2 + "scene2");
         // Vérifier la scène active et basculer
         if (currentScene == scene1)
         {
