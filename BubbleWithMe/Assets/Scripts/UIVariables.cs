@@ -95,6 +95,10 @@ public class UIVariables : MonoBehaviour
         if (!isRed)
         {
             ChangeColor(ColorEnum.RED);
+            MakeObjectAppearOrDisappear("RedUI", true);
+            MakeObjectAppearOrDisappear("OrangeUI", false);
+            MakeObjectAppearOrDisappear("BlueUI", false);
+            MakeObjectAppearOrDisappear("GreenUI", false);
         }
     }
 
@@ -103,6 +107,10 @@ public class UIVariables : MonoBehaviour
         if (!isOrange)
         {
             ChangeColor(ColorEnum.ORANGE);
+            MakeObjectAppearOrDisappear("RedUI", false);
+            MakeObjectAppearOrDisappear("OrangeUI", true);
+            MakeObjectAppearOrDisappear("BlueUI", false);
+            MakeObjectAppearOrDisappear("GreenUI", false);
         }
     }
 
@@ -111,6 +119,10 @@ public class UIVariables : MonoBehaviour
         if (!isBlue)
         {
             ChangeColor(ColorEnum.BLUE);
+            MakeObjectAppearOrDisappear("RedUI", false);
+            MakeObjectAppearOrDisappear("OrangeUI", false);
+            MakeObjectAppearOrDisappear("BlueUI", true);
+            MakeObjectAppearOrDisappear("GreenUI", false);
         }
     }
 
@@ -119,7 +131,45 @@ public class UIVariables : MonoBehaviour
         if (!isGreen)
         {
             ChangeColor(ColorEnum.GREEN);
+            MakeObjectAppearOrDisappear("RedUI", false);
+            MakeObjectAppearOrDisappear("OrangeUI", false);
+            MakeObjectAppearOrDisappear("BlueUI", false);
+            MakeObjectAppearOrDisappear("GreenUI", true);
         }
+    }
+
+    public Transform FindInHierarchy(string name)
+    {
+        // Recherche récursive dans la hiérarchie pour trouver un objet par son nom
+        foreach (Transform child in transform.GetComponentsInChildren<Transform>(true))
+        {
+            if (child.name == name)
+            {
+                return child;
+            }
+        }
+        return null; // Retourne null si aucun objet n'a été trouvé
+    }
+
+    public void MakeObjectAppearOrDisappear(string name, bool appear)
+    {
+        // Trouve le GameObject enfant avec le nom spécifié
+        Transform child = FindInHierarchy(name);
+
+        if (child != null)
+        {
+            // Vérifie si le GameObject contient un composant Button
+            GameObject button = child.gameObject;
+
+            // Active le GameObject pour le rendre visible
+            button.SetActive(appear);
+        }
+        else
+        {
+            // Affiche un avertissement si aucun enfant n'a été trouvé
+            Debug.LogWarning($"Aucun object trouvé avec le nom '{name}'.");
+        }
+    
     }
 
     /// <summary>
@@ -137,3 +187,6 @@ public class UIVariables : MonoBehaviour
         }
     }
 }
+
+
+
