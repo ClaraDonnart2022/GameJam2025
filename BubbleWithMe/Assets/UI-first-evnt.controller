@@ -74,10 +74,7 @@ AnimatorStateTransition:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: 
-  m_Conditions:
-  - m_ConditionMode: 3
-    m_ConditionEvent: i
-    m_EventTreshold: 11
+  m_Conditions: []
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 4570870358184404151}
   m_Solo: 0
@@ -150,7 +147,8 @@ AnimatorState:
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
-  m_StateMachineBehaviours: []
+  m_StateMachineBehaviours:
+  - {fileID: 4968434493447718045}
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
   m_WriteDefaultValues: 1
@@ -165,6 +163,24 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
+--- !u!114 &4968434493447718045
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c587c1ec667d4f27a847ead394a3bda, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabsLists:
+  - prefabs:
+    - {fileID: 5408572665499117984, guid: 82502e11fcd7e4196b5d1c1e83c7c4d2, type: 3}
+    - {fileID: 5408572665499117984, guid: 82502e11fcd7e4196b5d1c1e83c7c4d2, type: 3}
+  parentName: RedUI
+  spawnOffset: {x: 0, y: 0, z: 0}
 --- !u!1102 &5986495298478145938
 AnimatorState:
   serializedVersion: 6
