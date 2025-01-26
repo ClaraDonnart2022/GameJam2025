@@ -8,6 +8,8 @@ TagManager:
   - Blue
   - Orange
   - Green
+  - Egg
+  - Animal
   layers:
   - Default
   - TransparentFX
