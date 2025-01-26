@@ -21,6 +21,8 @@ public class UIVariables : MonoBehaviour
     public bool isBlue = false;
     public bool isGreen = false;
 
+    public AudioSource RecievedSound;
+
     /// <summary>
     /// Énumération pour les couleurs.
     /// </summary>
@@ -30,6 +32,9 @@ public class UIVariables : MonoBehaviour
         ORANGE,
         BLUE,
         GREEN
+    }
+    public void FireRecievedSound(){
+        RecievedSound.Play();
     }
 
     /// <summary>
