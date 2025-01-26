@@ -669,3 +669,838 @@ Start importing Assets/PNG/Honey/Honey.png using Guid(ae5b68c54e67c4269ac9f94db3
  -> (artifact id: 'e12cd38910a6cd435aad4dfdeb0e612f') in 0.099793282 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
+========================================================================
+Received Import Request.
+  Time since last request: 1427.629274 seconds.
+  path: Assets/PNG/BubbleRoom/CHARACTER ANIMATION 1000.png
+  artifactKey: Guid(08025fcbe05ad423c98ff7f4bb1c7601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/BubbleRoom/CHARACTER ANIMATION 1000.png using Guid(08025fcbe05ad423c98ff7f4bb1c7601) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'f0d36d497d3f88d52463abc65f82c7f8') in 0.185884356 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.699121 seconds.
+  path: Assets/PNG/Discu
+  artifactKey: Guid(fb1c146c1254345d28d798fad0879c03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Discu using Guid(fb1c146c1254345d28d798fad0879c03) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5d68447ac3fa6ece10e595074a4dd23b') in 0.001134188 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.653091 seconds.
+  path: Assets/PNG/Phone/SVG
+  artifactKey: Guid(ea2eb486b5fb146f99bebb8c7b57996c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/SVG using Guid(ea2eb486b5fb146f99bebb8c7b57996c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c1b0b6b8744a414ac80fb6937bce415') in 0.00080094 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.169407 seconds.
+  path: Assets/PNG/Phone/ORANGE_ChatIcon_V1.svg
+  artifactKey: Guid(5b0403be8b506444096c5b9216ae6615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/ORANGE_ChatIcon_V1.svg using Guid(5b0403be8b506444096c5b9216ae6615) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e89bd91064cf1f1b8c428d8dcf58fbbb') in 0.002928501 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.214198 seconds.
+  path: Assets/PNG/Phone/GREEN_ChatIcon_V1.svg
+  artifactKey: Guid(043836a311f444712b8b36a605875ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/GREEN_ChatIcon_V1.svg using Guid(043836a311f444712b8b36a605875ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '10f99989d38515df6881d771eda219d6') in 0.001247151 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.403809 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Bestie
+  artifactKey: Guid(37605a327df9e47beb8a8c51a8a7067c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Bestie using Guid(37605a327df9e47beb8a8c51a8a7067c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f89e714ba47bac8fcea9b9825ea36ff1') in 0.001695126 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.318347 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Roomie
+  artifactKey: Guid(478e6a2b37a504dd1a0a990ac8f3d685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Roomie using Guid(478e6a2b37a504dd1a0a990ac8f3d685) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c2859c8e127464bc20a15e3877c8c6e') in 0.000965007 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.286986 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Bestie/Group 65.png
+  artifactKey: Guid(d7b17adddefb14e0cb66ae6693fe99c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Bestie/Group 65.png using Guid(d7b17adddefb14e0cb66ae6693fe99c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'cf77dad2c10d328985c266af65866e12') in 0.017252397 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.956130 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Bestie/Group 71.png
+  artifactKey: Guid(627c9cf3d848041f09be52dddcf5e616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Bestie/Group 71.png using Guid(627c9cf3d848041f09be52dddcf5e616) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '0e8389cbc96323361546428c719f8696') in 0.011632599 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.650677 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Roomie/Group 47.png
+  artifactKey: Guid(59362d981e3ed45ea8d9fa7d7eb4c091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Roomie/Group 47.png using Guid(59362d981e3ed45ea8d9fa7d7eb4c091) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '5ef08e33e9eb11cb09c1754d57e47701') in 0.013571847 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.519944 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Roomie/Group 74.png
+  artifactKey: Guid(024141aaa165d4a0492f6b428a05c985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Roomie/Group 74.png using Guid(024141aaa165d4a0492f6b428a05c985) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'dc225b900b5c69faef5956e897d966df') in 0.018442128 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.497784 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Roomie/Group 75.png
+  artifactKey: Guid(ff09ff8049c9a4920ae4042997c75859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Roomie/Group 75.png using Guid(ff09ff8049c9a4920ae4042997c75859) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '9ca8c8e2ff6d1ff59a7a4821f9f7de1f') in 0.012698076 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.271398 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Roomie/Group 75.png
+  artifactKey: Guid(ff09ff8049c9a4920ae4042997c75859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Roomie/Group 75.png using Guid(ff09ff8049c9a4920ae4042997c75859) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '59dcddfd381f024a8ff71f9fa14e00bb') in 0.011866774 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.298668 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Bestie/Group 65.png
+  artifactKey: Guid(d7b17adddefb14e0cb66ae6693fe99c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Bestie/Group 65.png using Guid(d7b17adddefb14e0cb66ae6693fe99c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '7f759a8b866961c33912e7aff47c1ae8') in 0.017181063 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.763609 seconds.
+  path: Assets/PNG/Phone/svgtopng/BLUE_ChatIcon_V1.png
+  artifactKey: Guid(084e02b5b744f4574ba0eee4c5f84e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/svgtopng/BLUE_ChatIcon_V1.png using Guid(084e02b5b744f4574ba0eee4c5f84e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC4X4 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'e6fc41283745f25c9d2ea4b32f4441b6') in 0.010393976 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.586669 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Roomie/Group 47.png
+  artifactKey: Guid(59362d981e3ed45ea8d9fa7d7eb4c091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Roomie/Group 47.png using Guid(59362d981e3ed45ea8d9fa7d7eb4c091) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'cf89f74924c8c4b081ee7778c5c792a7') in 0.01621922 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.705108 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Bestie/Group 69.png
+  artifactKey: Guid(28a2af787883f4ac7b908cba95e4fa79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Bestie/Group 69.png using Guid(28a2af787883f4ac7b908cba95e4fa79) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '43107509623224621ac9db5e0c2eb38b') in 0.01875446 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.665254 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Bestie/Group 71.png
+  artifactKey: Guid(627c9cf3d848041f09be52dddcf5e616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Bestie/Group 71.png using Guid(627c9cf3d848041f09be52dddcf5e616) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '868b2d3d53ad1a14b806edad2fa5bfed') in 0.012702809 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.185332 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Roomie/Group 74.png
+  artifactKey: Guid(024141aaa165d4a0492f6b428a05c985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Roomie/Group 74.png using Guid(024141aaa165d4a0492f6b428a05c985) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '2cceb0539e4be5cecdbdeb4d39398c60') in 0.014876824 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.713252 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Bestie/Group 72.png
+  artifactKey: Guid(2bcd27b57e45c44ea9a27c6780fbd122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Bestie/Group 72.png using Guid(2bcd27b57e45c44ea9a27c6780fbd122) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'c86d12a571f557e66345035d26de4dfd') in 0.017026542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.358429 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Roomie/Group 78.png
+  artifactKey: Guid(1de0a0daa13504c028f2ebb18741592f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Roomie/Group 78.png using Guid(1de0a0daa13504c028f2ebb18741592f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'c5e42763d9f8d9c7acf164d69968717d') in 0.015216342 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.089326 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Roomie/Group 77.png
+  artifactKey: Guid(08ff73f2d0fe9402fbf312ad23f673be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Roomie/Group 77.png using Guid(08ff73f2d0fe9402fbf312ad23f673be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '998043327a4c5292873a0e96b6dc4862') in 0.015466646 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.391943 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Roomie/Group 76.png
+  artifactKey: Guid(91d4ba21aec4c4d3d9588a3e039641e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Roomie/Group 76.png using Guid(91d4ba21aec4c4d3d9588a3e039641e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '5141a7ee82087ae535fb707f7a9852c5') in 0.015538359 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.894050 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Bestie/Group 73.png
+  artifactKey: Guid(3a4f74e464795476da56940a6ca61893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Bestie/Group 73.png using Guid(3a4f74e464795476da56940a6ca61893) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'c5af7df560dada8e6c1c21d5505ac691') in 0.01075784 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.753181 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Bestie/Group 70.png
+  artifactKey: Guid(2b4ed4a1ab75b409e8dc8d33c74b283a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Bestie/Group 70.png using Guid(2b4ed4a1ab75b409e8dc8d33c74b283a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'aa125dea7f5c6a4b9cbff96ec427d664') in 0.012032001 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 239.916278 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Bestie/Group 68.png
+  artifactKey: Guid(0ec1d321409e74bb8ae908abcfe20aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Bestie/Group 68.png using Guid(0ec1d321409e74bb8ae908abcfe20aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '2352ff8db07295b63cc2f0e970d4e06c') in 0.01499809 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.990389 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Bestie/Group 66.png
+  artifactKey: Guid(acc40670033464700bec4deaabb6c1c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Bestie/Group 66.png using Guid(acc40670033464700bec4deaabb6c1c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '5dfadfcf5815020a8de23db7710bc9a8') in 0.015415574 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 855.027734 seconds.
+  path: Assets/PNG/Phone/Discu/Honey/Honey NEW.png
+  artifactKey: Guid(f0b036995b2164b639f51379aa2ff21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Honey/Honey NEW.png using Guid(f0b036995b2164b639f51379aa2ff21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'a9358d6db4e7e8cd9112969b968ee169') in 0.048352151 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 194.144527 seconds.
+  path: Assets/PNG/Phone/Discu/Honey/Group 38.png
+  artifactKey: Guid(843917537b61f4a03a5409cdb4122d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Honey/Group 38.png using Guid(843917537b61f4a03a5409cdb4122d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC4X4 UNorm format is not supported, decompressing texture
+ -> (artifact id: '9aeb4703d5605ca335bc14d2e5cf09b7') in 0.016539335 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 437.854114 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Bestie/Group 83 beer.png
+  artifactKey: Guid(92cffff19cee645eba2f3415419cba31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Bestie/Group 83 beer.png using Guid(92cffff19cee645eba2f3415419cba31) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '3291dd2e22d792e55591f93fd4f13ebd') in 0.01294094 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 240.787221 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Roomie/Group 79.png
+  artifactKey: Guid(fe246f90b789a4ff2a039e1aa65c2f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Roomie/Group 79.png using Guid(fe246f90b789a4ff2a039e1aa65c2f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '44e987bf52d6b094fa2415d4e17fd034') in 0.017738796 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.278524 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Roomie/Group 80.png
+  artifactKey: Guid(f691d1419849a4028b96100f2c638c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Roomie/Group 80.png using Guid(f691d1419849a4028b96100f2c638c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '3609724eaac5134cd24fc9f6895ea599') in 0.015699141 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.511635 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Roomie/Group 81.png
+  artifactKey: Guid(ab557ac8d7f6b487ba57081460167834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Roomie/Group 81.png using Guid(ab557ac8d7f6b487ba57081460167834) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '13ed174e317ba312451bede9e9d56f79') in 0.013131348 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.122471 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Roomie/Group 82.png
+  artifactKey: Guid(6683d726270d343688ea524d0c76d77b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Roomie/Group 82.png using Guid(6683d726270d343688ea524d0c76d77b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '16348137e43d1963e345407a39f313a9') in 0.015427893 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 404.726705 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Roomie/Roomie.png
+  artifactKey: Guid(2525b6dbeb7b7447f9d51625939e6e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Roomie/Roomie.png using Guid(2525b6dbeb7b7447f9d51625939e6e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '34a79922d6753da63931c691f3aa6255') in 0.046022521 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.858882 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Roomie/Roomie.png
+  artifactKey: Guid(2525b6dbeb7b7447f9d51625939e6e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Roomie/Roomie.png using Guid(2525b6dbeb7b7447f9d51625939e6e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '7450802ac362f5cdc4c0a3363ae67af6') in 0.024713465 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.684482 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Bestie/Bestie.png
+  artifactKey: Guid(1e48cf8a2b1f94c848cb3e33e32c734c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Bestie/Bestie.png using Guid(1e48cf8a2b1f94c848cb3e33e32c734c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'ba0d473cd0371fcf3cccc47ce54d0df9') in 0.04212577 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.320825 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Bestie/Bestie.png
+  artifactKey: Guid(1e48cf8a2b1f94c848cb3e33e32c734c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Bestie/Bestie.png using Guid(1e48cf8a2b1f94c848cb3e33e32c734c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '9cb7aa0e3ebdc0d6adcc3e03772a216d') in 0.018114892 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.450993 seconds.
+  path: Assets/PNG/Phone/Discu/Discussion Bestie/Bestie.png
+  artifactKey: Guid(1e48cf8a2b1f94c848cb3e33e32c734c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/Phone/Discu/Discussion Bestie/Bestie.png using Guid(1e48cf8a2b1f94c848cb3e33e32c734c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC4X4 UNorm format is not supported, decompressing texture
+ -> (artifact id: '951597bddcb9b55e3105f0e3ca9dddba') in 0.027420561 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.646 seconds
+Refreshing native plugins compatible for Editor in 2.66 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.183 seconds
+Domain Reload Profiling: 2835ms
+	BeginReloadAssembly (562ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (61ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (278ms)
+	RebuildCommonClasses (58ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (978ms)
+		LoadAssemblies (707ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (386ms)
+			TypeCache.Refresh (18ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (342ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1183ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (887ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (171ms)
+			ProcessInitializeOnLoadAttributes (598ms)
+			ProcessInitializeOnLoadMethodAttributes (96ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 2.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6876 unused Assets / (4.8 MB). Loaded Objects now: 7685.
+Memory consumption went from 168.7 MB to 163.8 MB.
+Total: 10.793776 ms (FindLiveObjects: 0.793772 ms CreateObjectMapping: 0.707806 ms MarkObjects: 6.223968 ms  DeleteObjects: 3.066749 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 659.101564 seconds.
+  path: Assets/PNG/BubbleRoom/animals/Best_quali_animals/FROG ANIMATION v3 1.png
+  artifactKey: Guid(20aa69478f91b452ead2d8f2f6b8519a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/BubbleRoom/animals/Best_quali_animals/FROG ANIMATION v3 1.png using Guid(20aa69478f91b452ead2d8f2f6b8519a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'e4bddc9ea0713bb227951e974e26004d') in 0.190370877 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.007786 seconds.
+  path: Assets/PNG/BubbleRoom/animals/Best_quali_animals/FROG ANIMATION v3.png
+  artifactKey: Guid(8bda056ccce124004834f9a8197d571a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/BubbleRoom/animals/Best_quali_animals/FROG ANIMATION v3.png using Guid(8bda056ccce124004834f9a8197d571a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'ae3311e746ba09182aa3c564ca863d4b') in 0.106822003 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.591773 seconds.
+  path: Assets/PNG/BubbleRoom/animals/Best_quali_animals/CAT ANIM V3.png
+  artifactKey: Guid(a084afc04af2c4fd8b1743ae9cc6ff10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/BubbleRoom/animals/Best_quali_animals/CAT ANIM V3.png using Guid(a084afc04af2c4fd8b1743ae9cc6ff10) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'c1eae9c8cfad9985826e2023e86a53db') in 0.108586847 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.469243 seconds.
+  path: Assets/PNG/BubbleRoom/animals/Best_quali_animals/CAT ANIM V3.png
+  artifactKey: Guid(a084afc04af2c4fd8b1743ae9cc6ff10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/BubbleRoom/animals/Best_quali_animals/CAT ANIM V3.png using Guid(a084afc04af2c4fd8b1743ae9cc6ff10) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'dc3b9c529f85dbb83e0cc7f315291a89') in 0.067675584 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.511055 seconds.
+  path: Assets/PNG/BubbleRoom/animals/Best_quali_animals/CAT ANIM V3.png
+  artifactKey: Guid(a084afc04af2c4fd8b1743ae9cc6ff10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/BubbleRoom/animals/Best_quali_animals/CAT ANIM V3.png using Guid(a084afc04af2c4fd8b1743ae9cc6ff10) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '9a09102ad67c4a036918d624e44f3f10') in 0.082483604 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.472934 seconds.
+  path: Assets/PNG/BubbleRoom/animals/Best_quali_animals/FROG ANIMATION v3.png
+  artifactKey: Guid(8bda056ccce124004834f9a8197d571a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/BubbleRoom/animals/Best_quali_animals/FROG ANIMATION v3.png using Guid(8bda056ccce124004834f9a8197d571a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'dff08f5901a5d0ea101393413f5ed8ec') in 0.134183217 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.733020 seconds.
+  path: Assets/PNG/BubbleRoom/animals/Best_quali_animals/FROG ANIMATION v3.png
+  artifactKey: Guid(8bda056ccce124004834f9a8197d571a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/BubbleRoom/animals/Best_quali_animals/FROG ANIMATION v3.png using Guid(8bda056ccce124004834f9a8197d571a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC4X4 UNorm format is not supported, decompressing texture
+ -> (artifact id: '3d5c3aa4de3c8a5b1f16098d00552bc2') in 0.089609898 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.081006 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Light/WarningIcon_Small.png
+  artifactKey: Guid(04d9cdfc54a6a485d83a3d78a3139505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Light/WarningIcon_Small.png using Guid(04d9cdfc54a6a485d83a3d78a3139505) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '08fdc58a5d297cfc78725f85babeb465') in 0.008598925 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.853096 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Selected/Sprite_Mode@2x.png
+  artifactKey: Guid(ff2aa9ebc8aee604caa5f8459ac4ae43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Selected/Sprite_Mode@2x.png using Guid(ff2aa9ebc8aee604caa5f8459ac4ae43) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '1a7fc60947afec58bc46fe09c3aa8326') in 0.009388221 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Light/Sprite_Mode@3x.png
+  artifactKey: Guid(71d8b2e508f1d9947ba51013600a5eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Light/Sprite_Mode@3x.png using Guid(71d8b2e508f1d9947ba51013600a5eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'f274c5f8a057b5a652fcfa4988dd9671') in 0.017543333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044727 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Selected/Sprite_Mode.png
+  artifactKey: Guid(ca778bc7303b24948abf3e907abbf2a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Selected/Sprite_Mode.png using Guid(ca778bc7303b24948abf3e907abbf2a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '8e9d66228dadd2d549baae47bbd22e6a') in 0.012708746 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055507 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Selected/Sprite_Influence@3x.png
+  artifactKey: Guid(7ce16c63ba627427cab935593c090e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Selected/Sprite_Influence@3x.png using Guid(7ce16c63ba627427cab935593c090e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '3e312c7a9c211860bed8a6f1455ab764') in 0.009087985 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Light/Sprite_Mode.png
+  artifactKey: Guid(2ad84ec7182471b4d8c44de568e22df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Light/Sprite_Mode.png using Guid(2ad84ec7182471b4d8c44de568e22df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '87ec5542ce287619fcae36aa41428eac') in 0.010390316 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042435 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Light/Sprite_Influence@2x.png
+  artifactKey: Guid(8169b95b76b504e3b8dc9ccf0bdbe226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Light/Sprite_Influence@2x.png using Guid(8169b95b76b504e3b8dc9ccf0bdbe226) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '62d2732a11c573b149cac31c661c129d') in 0.0085854 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Selected/Sprite_Influence@2x.png
+  artifactKey: Guid(80f77a76467b24d1a856328afa989eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Selected/Sprite_Influence@2x.png using Guid(80f77a76467b24d1a856328afa989eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '1cffdf600488ed0514efc3482a623e5f') in 0.011258073 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038699 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Selected/Split_Edge@4x.png
+  artifactKey: Guid(8272ea7c59da847458432e7c88bf7766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Selected/Split_Edge@4x.png using Guid(8272ea7c59da847458432e7c88bf7766) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '28e83c2e8600093e716ad344faf7da4c') in 0.008984302 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Textures/Sprite Shape Fill.png
+  artifactKey: Guid(b281b91a70a624a0da1c43adc1c30c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Textures/Sprite Shape Fill.png using Guid(b281b91a70a624a0da1c43adc1c30c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '1f017fd599c50f5d9e1614f8da23ab08') in 0.015816906 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Light/Sprite_Influence.png
+  artifactKey: Guid(768531f76566d4b18bfe4ed7b21e5ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/EditorIcons/Light/Sprite_Influence.png using Guid(768531f76566d4b18bfe4ed7b21e5ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '027257ca531b8da53379d6ca27f6115c') in 0.009252084 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.459287 seconds.
+  path: Assets/PNG/BubbleRoom/Background1.png
+  artifactKey: Guid(c48efa7b947834d3bae181528b4da8d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/BubbleRoom/Background1.png using Guid(c48efa7b947834d3bae181528b4da8d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '774cff7412b22908ad7f38499b2337f7') in 0.039766882 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.901814 seconds.
+  path: Assets/PNG/BubbleRoom/Background1.png
+  artifactKey: Guid(c48efa7b947834d3bae181528b4da8d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/BubbleRoom/Background1.png using Guid(c48efa7b947834d3bae181528b4da8d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '7612a556c7639bed18e1a2b75c778610') in 0.041502915 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.092 seconds
+Refreshing native plugins compatible for Editor in 2.25 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.144 seconds
+Domain Reload Profiling: 2239ms
+	BeginReloadAssembly (286ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (18ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (135ms)
+	RebuildCommonClasses (56ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (702ms)
+		LoadAssemblies (473ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (316ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (286ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1144ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (853ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (163ms)
+			ProcessInitializeOnLoadAttributes (569ms)
+			ProcessInitializeOnLoadMethodAttributes (98ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 2.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6876 unused Assets / (4.6 MB). Loaded Objects now: 7709.
+Memory consumption went from 167.8 MB to 163.2 MB.
+Total: 10.119111 ms (FindLiveObjects: 0.890554 ms CreateObjectMapping: 0.908181 ms MarkObjects: 5.428456 ms  DeleteObjects: 2.890901 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.031 seconds
+Refreshing native plugins compatible for Editor in 2.86 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.141 seconds
+Domain Reload Profiling: 2176ms
+	BeginReloadAssembly (260ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (18ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (115ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (672ms)
+		LoadAssemblies (430ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (320ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (288ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1142ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (856ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (175ms)
+			ProcessInitializeOnLoadAttributes (564ms)
+			ProcessInitializeOnLoadMethodAttributes (94ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 2.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6876 unused Assets / (4.5 MB). Loaded Objects now: 7711.
+Memory consumption went from 166.5 MB to 161.9 MB.
+Total: 10.055574 ms (FindLiveObjects: 0.804401 ms CreateObjectMapping: 0.906914 ms MarkObjects: 5.556895 ms  DeleteObjects: 2.786447 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 158.545808 seconds.
+  path: Assets/PNG/BubbleRoom/animals/Best_quali_animals/MEDUSE ANIM v4-export1000.png
+  artifactKey: Guid(04cee1bd223324e59a64cb556ec0c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/BubbleRoom/animals/Best_quali_animals/MEDUSE ANIM v4-export1000.png using Guid(04cee1bd223324e59a64cb556ec0c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'd634e2e5bc66399e62cdc2bcfd91488f') in 0.179322411 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 27
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.164932 seconds.
+  path: Assets/PNG/BubbleRoom/animals/Best_quali_animals/MEDUSE ANIM v4-export1000.png
+  artifactKey: Guid(04cee1bd223324e59a64cb556ec0c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/BubbleRoom/animals/Best_quali_animals/MEDUSE ANIM v4-export1000.png using Guid(04cee1bd223324e59a64cb556ec0c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC4X4 UNorm format is not supported, decompressing texture
+ -> (artifact id: '7dcb8876ac66e76032baefa0e9242581') in 0.133819673 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 27
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.243578 seconds.
+  path: Assets/PNG/BubbleRoom/animals/Best_quali_animals/MEDUSE ANIM v4-export1000.png
+  artifactKey: Guid(04cee1bd223324e59a64cb556ec0c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/BubbleRoom/animals/Best_quali_animals/MEDUSE ANIM v4-export1000.png using Guid(04cee1bd223324e59a64cb556ec0c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC4X4 UNorm format is not supported, decompressing texture
+ -> (artifact id: '9c62ac890c96bc5ca71089d113e3223e') in 0.105929939 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 27
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.098 seconds
+Refreshing native plugins compatible for Editor in 2.62 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.071 seconds
+Domain Reload Profiling: 2172ms
+	BeginReloadAssembly (276ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (17ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (110ms)
+	RebuildCommonClasses (59ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (720ms)
+		LoadAssemblies (526ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (295ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (264ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (1072ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (795ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (165ms)
+			ProcessInitializeOnLoadAttributes (520ms)
+			ProcessInitializeOnLoadMethodAttributes (89ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 2.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6876 unused Assets / (4.2 MB). Loaded Objects now: 7796.
+Memory consumption went from 165.8 MB to 161.6 MB.
+Total: 9.492285 ms (FindLiveObjects: 0.658717 ms CreateObjectMapping: 0.693855 ms MarkObjects: 5.639998 ms  DeleteObjects: 2.498589 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 534.961024 seconds.
+  path: Assets/PNG/BubbleRoom/animals/Best_quali_animals/MEDUSE ANIM v4-export1000.png
+  artifactKey: Guid(04cee1bd223324e59a64cb556ec0c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/BubbleRoom/animals/Best_quali_animals/MEDUSE ANIM v4-export1000.png using Guid(04cee1bd223324e59a64cb556ec0c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC4X4 UNorm format is not supported, decompressing texture
+ -> (artifact id: '2ef7624acc075d46d7b2d0da66ab913e') in 0.311707031 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.973 seconds
+Refreshing native plugins compatible for Editor in 2.48 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.157 seconds
+Domain Reload Profiling: 2134ms
+	BeginReloadAssembly (248ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (16ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (115ms)
+	RebuildCommonClasses (56ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (625ms)
+		LoadAssemblies (405ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (295ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (266ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (1158ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (871ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (161ms)
+			ProcessInitializeOnLoadAttributes (584ms)
+			ProcessInitializeOnLoadMethodAttributes (105ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 2.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6876 unused Assets / (4.7 MB). Loaded Objects now: 7822.
+Memory consumption went from 165.0 MB to 160.2 MB.
+Total: 10.075667 ms (FindLiveObjects: 0.788079 ms CreateObjectMapping: 0.782389 ms MarkObjects: 5.576342 ms  DeleteObjects: 2.927336 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 108.663387 seconds.
+  path: Assets/PNG/BubbleRoom/animals/Best_quali_animals/MEDUSE ANIM v4-export1000.png
+  artifactKey: Guid(04cee1bd223324e59a64cb556ec0c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/BubbleRoom/animals/Best_quali_animals/MEDUSE ANIM v4-export1000.png using Guid(04cee1bd223324e59a64cb556ec0c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC4X4 UNorm format is not supported, decompressing texture
+ -> (artifact id: '1d61eb5ab2f5cdb33454ad4242c63de6') in 0.289562505 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+

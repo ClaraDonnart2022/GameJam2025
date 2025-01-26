@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 8bda056ccce124004834f9a8197d571a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3418700584186695258
+    second: FROG ANIMATION v3_0
+  - first:
+      213: -458587241167453809
+    second: FROG ANIMATION v3_1
+  - first:
+      213: 6434069199900425390
+    second: FROG ANIMATION v3_2
+  - first:
+      213: 3118351577480692732
+    second: FROG ANIMATION v3_3
+  - first:
+      213: -2084781396816796487
+    second: FROG ANIMATION v3_4
+  - first:
+      213: 9086590451914603005
+    second: FROG ANIMATION v3_5
+  - first:
+      213: 3135403332215735665
+    second: FROG ANIMATION v3_6
+  - first:
+      213: -795001255033920817
+    second: FROG ANIMATION v3_7
+  - first:
+      213: 7111161644437490044
+    second: FROG ANIMATION v3_8
+  - first:
+      213: 8447549870236160302
+    second: FROG ANIMATION v3_9
+  - first:
+      213: -5896645207943540281
+    second: FROG ANIMATION v3_10
+  - first:
+      213: 3959809705695242903
+    second: FROG ANIMATION v3_11
+  - first:
+      213: 6320829521587104441
+    second: FROG ANIMATION v3_12
+  - first:
+      213: 4564677306715060950
+    second: FROG ANIMATION v3_13
+  - first:
+      213: 7806341007657224942
+    second: FROG ANIMATION v3_14
+  - first:
+      213: 6576049472532178281
+    second: FROG ANIMATION v3_15
+  - first:
+      213: 5636534691635148672
+    second: FROG ANIMATION v3_16
+  - first:
+      213: -2493598128730214008
+    second: FROG ANIMATION v3_17
+  - first:
+      213: -2875440735698200310
+    second: FROG ANIMATION v3_18
+  - first:
+      213: -8157619886779926074
+    second: FROG ANIMATION v3_19
+  - first:
+      213: -1832688172997702014
+    second: FROG ANIMATION v3_20
+  - first:
+      213: 8035661734702960666
+    second: FROG ANIMATION v3_21
+  - first:
+      213: -3050065845547711812
+    second: FROG ANIMATION v3_22
+  - first:
+      213: -8829760227324270418
+    second: FROG ANIMATION v3_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00286fd5693c7488f9f736b43cd120f8
+      internalID: -1925876146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a27b3dd69a546d2bd98789affd702a
+      internalID: 354434434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3dfbae6fda644a0b962141956dd62d
+      internalID: 1247393825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761d61572d4fa4f7193d6f32da23e861
+      internalID: 95263961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e453c8d636274f89833b986573b2433
+      internalID: -730364280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a442d598d52b4cb99302078be7e6e14
+      internalID: 928241766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e62c8f23305c43168a416573d96f195
+      internalID: -144978016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557c0454d1cef499e85eaa434f963b10
+      internalID: -1595300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5924edeef39054b798883e0f47efeb46
+      internalID: 1524361895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6844db8f06a42409cc8c1e299f564b
+      internalID: 229449482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aecfa7f938c842d9a38cf2a5db8281d
+      internalID: -359837679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b8840f882fc4b8393d870625c87fe7
+      internalID: 46140189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c90bde6f2c8346ec962166a4c87ee44
+      internalID: -1093723236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6790f193b23643ddbd8fb55d38bcc77
+      internalID: 1212080992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4938b94019b2f4845877731c415e6709
+      internalID: -765460976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40fef56f1d9c40b5ba8651d9e37d419
+      internalID: -1811178232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0dcd1d2280a4be898213f63c456026
+      internalID: 1484613378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_17
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7e8ac41b7c04b43ada6c3731f2fa38
+      internalID: -969915460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bd6bd5056e542c0ac9f0c4bb505379
+      internalID: 649268470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad8dc0ea185340f1927217fd9cda693
+      internalID: -254834377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55beff4c308a4408388663e9e2ce26c5
+      internalID: -1316774213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_21
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be06554fa4b8a4821af2391bdf87e30f
+      internalID: -2027810755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_22
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d7291c3584f4ffb858dbf180b093fa
+      internalID: 1655830793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FROG ANIMATION v3_23
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64ffe7a2913845f0a97f202e2c60ef5
+      internalID: 882559402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1f9f6abd771b1495e9c67c4783c13fd2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FROG ANIMATION v3_0: -1925876146
+      FROG ANIMATION v3_1: 354434434
+      FROG ANIMATION v3_10: -359837679
+      FROG ANIMATION v3_11: 46140189
+      FROG ANIMATION v3_12: -1093723236
+      FROG ANIMATION v3_13: 1212080992
+      FROG ANIMATION v3_14: -765460976
+      FROG ANIMATION v3_15: -1811178232
+      FROG ANIMATION v3_16: 1484613378
+      FROG ANIMATION v3_17: -969915460
+      FROG ANIMATION v3_18: 649268470
+      FROG ANIMATION v3_19: -254834377
+      FROG ANIMATION v3_2: 1247393825
+      FROG ANIMATION v3_20: -1316774213
+      FROG ANIMATION v3_21: -2027810755
+      FROG ANIMATION v3_22: 1655830793
+      FROG ANIMATION v3_23: 882559402
+      FROG ANIMATION v3_3: 95263961
+      FROG ANIMATION v3_4: -730364280
+      FROG ANIMATION v3_5: 928241766
+      FROG ANIMATION v3_6: -144978016
+      FROG ANIMATION v3_7: -1595300514
+      FROG ANIMATION v3_8: 1524361895
+      FROG ANIMATION v3_9: 229449482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
