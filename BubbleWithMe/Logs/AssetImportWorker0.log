@@ -4163,3 +4163,21 @@ Memory consumption went from 147.6 MB to 142.5 MB.
 Total: 9.400115 ms (FindLiveObjects: 0.650089 ms CreateObjectMapping: 0.772521 ms MarkObjects: 5.428471 ms  DeleteObjects: 2.547646 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1849.157094 seconds.
+  path: Assets/PNG/HelpPage/CREDITS AND INFO SLIDE  CARRE- 1.png
+  artifactKey: Guid(0a50fd73072524c4d9861b4293eccf3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/HelpPage/CREDITS AND INFO SLIDE  CARRE- 1.png using Guid(0a50fd73072524c4d9861b4293eccf3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'd827d036a2dd007826d69bb9a07213d9') in 0.127892477 seconds
+Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.506551 seconds.
+  path: Assets/PNG/MAIN ICON.png
+  artifactKey: Guid(7ed2cd92def1b4c1db83887be7145b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PNG/MAIN ICON.png using Guid(7ed2cd92def1b4c1db83887be7145b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'c95f55ef9bda477802d48d592c9d5f01') in 0.020143253 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
