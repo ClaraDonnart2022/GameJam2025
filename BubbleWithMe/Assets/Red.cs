@@ -3,6 +3,7 @@ using UnityEngine;
 public class Red : MonoBehaviour
 {
     public int response;
+    public GameObject sceneManager;
 
 
     public void DestroyElement(string id)
@@ -25,9 +26,19 @@ public class Red : MonoBehaviour
     }
 
     // Cette méthode permet de définir la valeur de "response"
-    public void PopulateResponse(int i)
+    public void PopulateSceneManager(int i)
     {
-        response = i;
+        SceneManager managerScript = sceneManager.GetComponent<SceneManager>();
+        if (managerScript != null)
+        {
+            // Modifier un élément dans la liste
+            managerScript.isFinished[i] = true;
+            Debug.Log($"isFinished[{i}] est maintenant : {managerScript.isFinished[i]}");
+        }
+        else
+        {
+            Debug.LogError("Le script SceneManagerScript n'est pas attaché à sceneManager !");
+        }
     }
 
     public void MakeButtonAppear(string name)
