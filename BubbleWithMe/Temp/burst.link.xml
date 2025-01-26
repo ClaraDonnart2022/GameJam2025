@@ -38,6 +38,12 @@
   <type fullname="Unity.Jobs.LowLevel.Unsafe.JobsUtility">
    <method name="GetWorkStealingRange"/>
   </type>
+  <type fullname="Unity.Collections.LowLevel.Unsafe.UnsafeUtility">
+   <method name="FreeTracked"/>
+  </type>
+  <type fullname="Unity.Collections.LowLevel.Unsafe.UnsafeUtility">
+   <method name="MallocTracked"/>
+  </type>
   <type fullname="UnityEngine.Rendering.GPUDrivenProcessor">
    <method name="FindUnsupportedMaterialsImpl_Injected"/>
   </type>
@@ -53,23 +59,23 @@
   <type fullname="UnityEngine.Rendering.BatchRendererGroup">
    <method name="OcclusionTestAABB_Injected"/>
   </type>
-  <type fullname="UnityEngine.Jobs.TransformAccess">
-   <method name="GetLocalToWorldMatrix"/>
-  </type>
   <type fullname="UnityEngine.U2D.Clipper2D">
    <method name="Internal_Execute_Cleanup"/>
   </type>
   <type fullname="UnityEngine.U2D.Clipper2D">
    <method name="Internal_Execute_Injected"/>
   </type>
-  <type fullname="Unity.Collections.LowLevel.Unsafe.UnsafeUtility">
-   <method name="FreeTracked"/>
-  </type>
-  <type fullname="Unity.Collections.LowLevel.Unsafe.UnsafeUtility">
-   <method name="MallocTracked"/>
+  <type fullname="UnityEngine.Jobs.TransformAccess">
+   <method name="GetLocalToWorldMatrix"/>
   </type>
   <type fullname="UnityEngine.LightProbesQuery">
    <method name="CalculateInterpolatedLightAndOcclusionProbes"/>
+  </type>
+  <type fullname="UnityEngine.U2D.ClipperOffset2D">
+   <method name="Internal_Execute"/>
+  </type>
+  <type fullname="UnityEngine.U2D.ClipperOffset2D">
+   <method name="Internal_Execute_Cleanup"/>
   </type>
   <type fullname="UnityEngine.Jobs.TransformAccess">
    <method name="GetPosition"/>
@@ -79,12 +85,6 @@
   </type>
   <type fullname="UnityEngine.Jobs.TransformAccess">
    <method name="GetLocalScale"/>
-  </type>
-  <type fullname="UnityEngine.U2D.ClipperOffset2D">
-   <method name="Internal_Execute"/>
-  </type>
-  <type fullname="UnityEngine.U2D.ClipperOffset2D">
-   <method name="Internal_Execute_Cleanup"/>
   </type>
  </assembly>
 </linker>

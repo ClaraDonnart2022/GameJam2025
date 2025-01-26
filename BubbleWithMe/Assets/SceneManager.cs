@@ -6,6 +6,7 @@ using System.Collections.Generic;
 public class SceneManager : MonoBehaviour
 {
     public List<bool> isFinished = new List<bool>();
+    public GameObject Credits;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -14,6 +15,9 @@ public class SceneManager : MonoBehaviour
         {
             isFinished.Add(false);
         }
+    }
+    public void toggleCredits(){
+        Credits.SetActive(!Credits.activeSelf);
     }
 
     // Update is called once per frame
