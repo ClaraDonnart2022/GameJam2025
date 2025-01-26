@@ -13,8 +13,26 @@ public class ChangeScene : MonoBehaviour
     public List<GameObject> ColorContainer;
 
     private SceneManager sceneManager;
+    public AudioLowPassFilter lowpass;
+    public float duration_fade = 2f;
 
-    
+    private System.Collections.IEnumerator FadeAudio(float startcutOff, float targetcutOff)
+    {
+        float elapsedTime = 0f;
+        lowpass.cutoffFrequency = startcutOff;
+
+        while (elapsedTime < duration_fade)
+        {
+            elapsedTime += Time.deltaTime;
+            lowpass.cutoffFrequency = Mathf.Lerp(startcutOff, targetcutOff, elapsedTime / duration_fade);
+            yield return null;
+        }
+
+        // S'assurer que le volume final est exactement celui attendu
+        lowpass.cutoffFrequency = targetcutOff;
+
+    }
+
     // Fonction pour mettre à jour l'état des enfants
     public void UpdateAnimals()
     {
@@ -72,14 +90,32 @@ public class ChangeScene : MonoBehaviour
         return null;
     }
 
+    public void FadeOut(){
+        StartCoroutine(FadeAudio(20000f, 700f));
+    }
+    public void FadeIn(){
+        StartCoroutine(FadeAudio(700f, 20000f));
+    }
+
+
 
     // Fonction pour changer de scène avec sauvegarde et restauration
     public void ToggleScene()
     {
         Phone.SetActive(!Phone.activeSelf);
         BubbleRoom.SetActive(!BubbleRoom.activeSelf);
+        if(Phone.activeSelf){
+            FadeOut();
+        }
+        else{
+            FadeIn();
+        }
+        
         UpdateAnimals();
 
     }
+
+
+    
 
 }
